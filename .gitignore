@@ -1,0 +1,9 @@
+config.json
+Inbox/
+Edited/
+Originals/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+work/

@@ -1,0 +1,55 @@
+{
+  "first_run_done": false,
+  "icloud_apple_id": "",
+  "folders": {
+    "inbox": "Inbox",
+    "edited": "Edited"
+  },
+  "captions": {
+    "enabled": true,
+    "style": "line",
+    "font": "Arial Black",
+    "size": 78,
+    "color": "#FFFFFF",
+    "highlight_color": "#FFD400",
+    "outline_color": "#000000",
+    "outline_width": 9,
+    "position": "lower",
+    "uppercase": false,
+    "show_punctuation": false
+  },
+  "vocabulary": [],
+  "replacements": {},
+  "cuts": {
+    "tightness": "normal"
+  },
+  "audio": {
+    "strength": "standard",
+    "target_lufs": -14
+  },
+  "grade": {
+    "enabled": true,
+    "strength": 0.7,
+    "look": "natural",
+    "warmth": 0.0
+  },
+  "framing": {
+    "zoom": 1.0,
+    "centre_x": 0.5,
+    "mirror_fix": "auto"
+  },
+  "logo": {
+    "enabled": false,
+    "path": "",
+    "corner": "top-right",
+    "size": 150
+  },
+  "end_card": {
+    "enabled": false,
+    "text": "",
+    "seconds": 2.0,
+    "background": "#111111",
+    "color": "#FFFFFF",
+    "use_logo": true
+  }
+}
